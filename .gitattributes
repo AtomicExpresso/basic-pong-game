@@ -1,0 +1,3 @@
+#Github was detecting the project as written in C, even though i wrote it in C++
+*.h linguist-language=C++
+*.cpp linguist-language=C++
